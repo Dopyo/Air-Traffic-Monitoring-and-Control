@@ -1,3 +1,5 @@
+NOTE: You need a QNX license to run the project
+
 ![alt text](coen320_project_description_page-0001.jpg?raw=true)
 ![alt text](coen320_project_description_page-0002.jpg?raw=true)
 ![alt text](coen320_project_description_page-0003.jpg?raw=true)
