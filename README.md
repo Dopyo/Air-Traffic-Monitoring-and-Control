@@ -1,1 +1,1 @@
-<object data="coen320_project_description.pdf" width="1000" height="1000" type='application/pdf'></object>
+![alt text](coen320_project_description_page-0001.jpg?raw=true)
